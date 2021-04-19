@@ -1,0 +1,1 @@
+<|endoftext|>This is a sample.<|endoftext|>This is another similar sample.<|endoftext|>Wow, can you believe it? It's yet another sample.<|endoftext|>This is a sample, and ideally we have 10 MB worth of these samples all dumped into a single txt file and delimited by the endoftext tag like this <|endoftext|>
